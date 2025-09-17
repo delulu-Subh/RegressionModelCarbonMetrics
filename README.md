@@ -1,4 +1,5 @@
-🌿 RegressionModelCarbonMetrics
+# 🌿 RegressionModelCarbonMetrics
+
 📊 Project Overview
 
 RegressionModelCarbonMetrics predicts CO₂ emissions using vehicle fuel consumption and engine data. The project leverages Linear Regression with both numerical and categorical features, providing accurate environmental insights.
