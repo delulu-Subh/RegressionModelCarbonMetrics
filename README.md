@@ -63,6 +63,8 @@ Mean Squared Error (MSE)	24.81
 Root Mean Squared Error (RMSE)	4.98
 R² Score	0.994
 
+<img width="561" height="413" alt="CarbonMetricsGraph" src="https://github.com/user-attachments/assets/b6e09d57-2110-46bd-888c-ba6c596e1512" />
+
 The scatter plot demonstrates an almost perfect fit along the y=x line.
 
 🚀 Insights
